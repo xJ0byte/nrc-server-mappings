@@ -9,15 +9,12 @@
     }
   },
   "socials": {
-    "website": "https://www.cytooxien.de",
+    "docs": "https://docs.opbucht.de",
     "discord": "https://discord.gg/uaYstsx2nz",
     "teamspeak": "https://ts.cytooxien.de"
   },
   "assets": {
     "icon": "./icon.png",
     "background": "./bg.png"
-  },
-  "disabled-modules": [
-    "FOV_CHANGER"
-  ]
+  }
 }
